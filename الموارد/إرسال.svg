@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#f19b5f;}.cls-2{fill:#ffce69;}.cls-3{fill:#6c2e7c;}</style>
+</defs>
+<g id="Icons">
+<rect class="cls-1" height="18" rx="3" width="22" x="1" y="1"/>
+<rect class="cls-2" height="13" rx="3" width="22" x="1" y="1"/>
+</g>
+<g data-name="Layer 4" id="Layer_4">
+<path class="cls-3" d="M20,0H4A4,4,0,0,0,0,4V16a4,4,0,0,0,4,4H7a1,1,0,0,0,0-2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2H20a2,2,0,0,1,2,2V16a2,2,0,0,1-2,2H17a1,1,0,0,0,0,2h3a4,4,0,0,0,4-4V4A4,4,0,0,0,20,0Z"/>
+<path class="cls-3" d="M4.26,15.032a1,1,0,0,0,1.412.068l4.143-3.76a3.937,3.937,0,0,0,4.37,0l4.143,3.76a1,1,0,0,0,1.344-1.48l-3.955-3.591,3.956-3.6a1,1,0,0,0-1.346-1.48L13.35,9.479a2.005,2.005,0,0,1-2.7,0L5.673,4.95A1,1,0,1,0,4.327,6.43l3.957,3.6L4.328,13.62A1,1,0,0,0,4.26,15.032Z"/>
+<path class="cls-3" d="M10.707,17.707,11,17.414V23a1,1,0,0,0,2,0V17.414l.293.293a1,1,0,0,0,1.414-1.414l-2-2a1,1,0,0,0-1.414,0l-2,2a1,1,0,0,0,1.414,1.414Z"/>
+</g>
+</svg>
