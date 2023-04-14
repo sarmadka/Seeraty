@@ -53,16 +53,6 @@
 ‏<a href="https://github.com/Alusus/WebPlatform" target="_blank">https://github.com/Alusus/WebPlatform</a>
 
 ---
-## جميل (Jameel)
-
-برنامج عام لتجميل الشفرات المصدرية. البرنامج ليس محددًا بلغة معينة، وإنما يمكن إضافة قواعد لأي لغة
-كانت. في الوقت الحالي البرنامج يدعم تجميل شفرات الأسس بالإضافة إلى ملفات JSON.
-
-طور البرنامج باستخدام لغة الأسس ويعمل حاليًا على نظامي لينكس وماك أو إس.
-
-‏<a href="https://github.com/Alusus/Jameel" target="_blank">https://github.com/Alusus/Jameel</a>
-
----
 ## مؤجلات (Promises)
 
 مكتبة لتوفير الدعم للمؤجلات في لغة الأسس. المكتبة توفر الدعم للمؤجلات، لكنها لا توفر حلقة معالجة
@@ -84,6 +74,25 @@
 ومايسكويل (MySQL) وسيكويلايت (SQLite).
 
 ‏<a href="https://github.com/Alusus/Rows" target="_blank">https://github.com/Alusus/Rows</a>
+
+---
+## مـترجم_ماركداون (MarkdownTranslator)
+
+مكتبة للغة الأسس لترجمة نصوص ماركداون إلى HTML.
+
+طورت المكتبة باستخدام لغة الأسس.
+
+‏<a href="https://github.com/Alusus/MarkdownTranslator" target="_blank">https://github.com/Alusus/MarkdownTranslator</a>
+
+---
+## جميل (Jameel)
+
+برنامج عام لتجميل الشفرات المصدرية. البرنامج ليس محددًا بلغة معينة، وإنما يمكن إضافة قواعد لأي لغة
+كانت. في الوقت الحالي البرنامج يدعم تجميل شفرات الأسس بالإضافة إلى ملفات JSON.
+
+طور البرنامج باستخدام لغة الأسس ويعمل حاليًا على نظامي لينكس وماك أو إس.
+
+‏<a href="https://github.com/Alusus/Jameel" target="_blank">https://github.com/Alusus/Jameel</a>
 
 ---
 ## جسر الحروف
