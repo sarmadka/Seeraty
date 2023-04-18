@@ -1,0 +1,146 @@
+## Alusus Programming Language
+
+General purpose programming language, that is extensible by end users through the use of third party
+libraries or from inside the end user's program itself. The goal of the language is to allow users to:
+* Expand vertically to cover low level features like those in C++ as well as high level features like
+  those found in languages like Python or TypeScript.
+* Expand horizontally to cover all aspects of programming which saves the user having to use more than
+  one language.
+* Allow anyone to enhance the language in a decentralized way, which allows users to develop new
+  programming techniques or paradigms without having to start from scratch with a new language.
+
+![](/الموارد/شعار_الأسس_بخلفية.svg)
+
+Currently, Alusus Language supports developing desktop apps, command line tools, web apps, database
+access, in addition to game programming, and it currently works on Linux and macOS. Builds exist for
+x86 and ARM architectures for both 32 and 64 bits.
+
+I designed the language and I developed the compiler using C++17 and STL, and I am currently leading
+the project, which sees contribution from few other engineers.
+
+[Official Website](https://alusus.org)
+
+---
+## Alwarsha
+
+Alwarsha is an IDE built with support for Alusus Language. The project is a fork of Gnome Builder with
+few additions and modifications to better support Alusus Language.
+
+![](/الموارد/الورشة.svg)
+
+Technologies used:
+* C language
+* Python
+* GTK
+* AppImage
+
+[](https://github.com/Alusus/Alwarsha)
+
+---
+## Web Platform
+
+A platform for developing full stack web apps using Alusus Language. The platform allows the user
+to build both the backend and the frontend in Alusus, and it minimizes the borderline between the
+frontend and the backend, making web development feel more like desktop GUI development.
+
+I am the main developer on the project. The project is built using:
+* Alusus Language
+* WebAssembly
+* JavaScript
+* HTML
+* CSS
+* binaryen
+* wabt
+
+[](https://github.com/Alusus/WebPlatform)
+
+---
+## Promises
+
+A library to provide support for Promises in Alusus Language. The library provides promises functionality
+but does not provide an event loop, instead the platform where the promises are used is responsible for
+providing an event loop, since event loops are tightly related to the environment in which the app runs.
+Web Platform provides an event loop that works with this library.
+
+The library was built using Alusus Language.
+
+[](https://github.com/Alusus/Promises)
+
+---
+## Rows
+
+An ORM library for Alusus Language. The library supports defining DB tables as classes and it allows
+reading and writing to those tables with support for where and order clauses.
+
+The library was built using Alusus Language and it currently supports PostgresSQL, MySQL as well as
+SQLite.
+
+[](https://github.com/Alusus/Rows)
+
+---
+## MarkdownTranslator
+
+A library for converting Markdown text into HTML.
+
+The library is built using Alusus Language.
+
+[](https://github.com/Alusus/MarkdownTranslator)
+
+---
+## Jameel
+
+A source code beautifier tool. The tool is not tied to a specific language, instead rules can be
+added to it to support any programming language. Currently the tool supports Alusus as well as
+JSON files.
+
+The tool is built using Alusus Language and it currently supports Linux and macOS.
+
+[](https://github.com/Alusus/Jameel)
+
+---
+## Letters Bridge
+
+A GUI interface for kids and youngsters knowledge based competitions. The software divides the competitors
+into two teams that compete on answering questions quicker. The software provides the main OpenGL based GUI
+which is visible to everyone, two web based interfaces visible to the competing teams, and one web based
+control center for the host.
+
+Technologies used:
+* Alusus Language
+* SDL2
+* Web Platform
+
+![](/الموارد/جسر_الحروف.png)
+
+---
+## Sayf in Math City
+
+An educational game to teach math to kids in a fun and adventurous atmosphere. The game was originally
+developed in the 1990s on Windows 3.1 using C language and I was responsible for the game-play programming
+and we lately re-developed the game from scratch using Alusus Language to bring it to modern platforms.
+I an responsible for building the framework of the new code base. I am currently working on integrating
+it with Web Platform to bring it to the web.
+
+![](/الموارد/سيف.png)
+
+---
+## Babylonian Twins
+
+A 2D platforming game for iOS and Android. I was responsible for building the iOS version using
+C++ and OpenGL.
+
+[Official Website](https://babyloniantwins.com)
+
+![](/الموارد/التوأم_البابلي.gif)
+
+---
+## LogicCAD
+
+This was my graduation project from the college of computer engineering. It's a simulation software
+for logic circuits, which allows designing and running logic circuits. The software includes basic
+logic gates like AND and OR among others, and it allows the user to built new components that can
+then be re-used to build bigger and more complicated circuits.
+
+The software was built for MS Windows using C++ and MFC.
+
+![](/الموارد/لوجك_كاد.gif)

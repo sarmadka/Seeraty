@@ -1,0 +1,41 @@
+msgid "معلومات عامة"
+msgstr "General Info"
+
+msgid "مشاريع"
+msgstr "Projects"
+
+msgid "الخدمة المهنية"
+msgstr "Professional Experience"
+
+msgid "اتصل بي"
+msgstr "Contact Me"
+
+msgid "عن الموقع"
+msgstr "About this Website"
+
+msgid "أغــلق"
+msgstr "Close"
+
+msgid "الاسم"
+msgstr "Name"
+
+msgid "البريد الإلكتروني"
+msgstr "E-Mail Address"
+
+msgid "العنوان"
+msgstr "Title"
+
+msgid "برمجتُ هذا الموقع باستخدام [مـنصة_ويب](https://github.com/Alusus/WebPlatform)\\n\n"
+"والتي برمجتها باستخدام [لغة الأسس](https://alusus.org)\\n\n"
+"والتي هي الأخرى من إنتاجاتي البرمجية"
+msgstr "I developed this website using [WebPlatform](https://github.com/Alusus/WebPlatform)\\n\n"
+"which I developed usign [Alusus Language](https://alusus.org)\\n\n"
+"which was also developed by me"
+
+msgid "هذه قائمة المشاريع التي عملت عليها بشكل مستقل "
+"ولا تشمل المشاريع التي أنجزتها أثناء عملي كموظف في شركة أخرى."
+msgstr "This is the list of projects I've worked on independently; it does not include projects"
+"I worked on as an employee or long term contractor."
+
+msgid "< الخط الزمني"
+msgstr "< Timeline"

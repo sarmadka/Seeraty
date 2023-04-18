@@ -18,7 +18,7 @@
 صممتُ اللغة وبرمجتُ مترجمها باستخدام لغة سي++ 17 وأعمل حاليًا على تطويرها كمهندس أول ومدير للمشروع
 الذي يساهم فيه أيضًا مهندسون آخرون.
 
-‏<a href="https://alusus.org" target="_blank">الموقع الرسمي</a>
+[الموقع الرسمي](https://alusus.org)
 
 ---
 ## الورشة (Alwarsha)
@@ -34,7 +34,7 @@
 * مكتبة GTK
 * صيغة حزم AppImage
 
-‏<a href="https://github.com/Alusus/Alwarsha" target="_blank">https://github.com/Alusus/Alwarsha</a>
+[](https://github.com/Alusus/Alwarsha)
 
 ---
 ## مـنصة ويب الأسس (Web Platform)
@@ -49,8 +49,10 @@
 * جافاسكريبت
 * ‏HTML
 * ‏CSS
+* ‏binaryen
+* ‏wabt
 
-‏<a href="https://github.com/Alusus/WebPlatform" target="_blank">https://github.com/Alusus/WebPlatform</a>
+[](https://github.com/Alusus/WebPlatform)
 
 ---
 ## مؤجلات (Promises)
@@ -61,7 +63,7 @@
 
 كتبت هذه المكتبة باستخدام لغة الأسس.
 
-‏<a href="https://github.com/Alusus/Promises" target="_blank">https://github.com/Alusus/Promises</a>
+[](https://github.com/Alusus/Promises)
 
 ---
 ## صـفوف (Rows)
@@ -73,7 +75,7 @@
 بُنيت المكتبة باستخدام لغة الأسس ويمكنها في الوقت الحالي التعامل مع قواعد بيانات بوستغريس (PostgresSQL)
 ومايسكويل (MySQL) وسيكويلايت (SQLite).
 
-‏<a href="https://github.com/Alusus/Rows" target="_blank">https://github.com/Alusus/Rows</a>
+[](https://github.com/Alusus/Rows)
 
 ---
 ## مـترجم_ماركداون (MarkdownTranslator)
@@ -82,7 +84,7 @@
 
 طورت المكتبة باستخدام لغة الأسس.
 
-‏<a href="https://github.com/Alusus/MarkdownTranslator" target="_blank">https://github.com/Alusus/MarkdownTranslator</a>
+[](https://github.com/Alusus/MarkdownTranslator)
 
 ---
 ## جميل (Jameel)
@@ -92,7 +94,7 @@
 
 طور البرنامج باستخدام لغة الأسس ويعمل حاليًا على نظامي لينكس وماك أو إس.
 
-‏<a href="https://github.com/Alusus/Jameel" target="_blank">https://github.com/Alusus/Jameel</a>
+[](https://github.com/Alusus/Jameel)
 
 ---
 ## جسر الحروف
@@ -125,7 +127,7 @@
 لعبة منصات (platforming) لنظامي آي أو إس وآندرويد ثنائية الأبعاد. مسؤوليتي كانت برمجة نسخة الآي أو إس
 باستخدام C++ و OpenGL.
 
-‏<a href="https://babyloniantwins.com" target="_blank">https://babyloniantwins.com</a>
+[الموقع الرسمي](https://babyloniantwins.com)
 
 ![](/الموارد/التوأم_البابلي.gif)
 

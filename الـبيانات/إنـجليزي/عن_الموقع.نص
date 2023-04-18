@@ -1,0 +1,12 @@
+This website is built entirly using Alusus Language (backand and frontend). Features include:
+* The site is completely data driven. All data shown in the site is stored as text files in markdown format. This
+  includes the downloadable PDF version.
+* The site supports dark and light modes.
+* The site was built usign Alusus Language and Web Platform. The front-end utilizes WebAssembly.
+* The site uses resposnive design to utilize the available screen space.
+* The source code was written in Arabic to showcase Alusus' multi-lingual support. The source code can be
+  re-written in English if needed. Contact me if you are willing to translate it to English for whatever
+  reason.
+
+The source code is published under the GPL license here:
+[https://github.com/sarmadka/Seeraty](https://github.com/sarmadka/Seeraty)

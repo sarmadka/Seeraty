@@ -1,0 +1,143 @@
+## From 2015-1 To 2023-4: Lead Software Engineer / Pear Therapteutics / remote
+
+Worked as a full stack developer on building a platform for digital therapy. The system consists of patient-facing
+apps running on handheld devices (iOS & Android), a clinical-facing web app, and a back end that processes the
+collected information. Development is done using Agile methodologies with heavy dependance on automated testing.
+I was part of the platform team that is responsible for developing the platform used by front end teams and I led
+smaller teams (3 to 4 devs) within this platform team. Areas of responsibilities:
+* Participate in project planning and story writing.
+* Validate and approve code designs and other technical decisions within the backend services under my
+  responsibility.
+* Help set developer guidelines for team members.
+* Design and implementation of backend services NodeJS, TypeScript, NestJS, Restify, Express, Sequelize, MySQL,
+  Postgres, Docker.
+* Writing automated tests using Mocha, Jest, Sinon, and Chai.
+* Performing code reviews and mentor other team members to help them get up-to-speed.
+* Responsible for guaranteeing the security of user info collected by our services.
+* Review the overall system to find areas of weaknesses and suggest improvements.
+* Participate in designing, developing and maintaining the CI system and the dev environments.
+* Provide needed support to the QA team and to other teams using the platform.
+* Write developer documentation.
+* Approve regulatory documentations related to new software deployments.
+* Lead production deployment activities.
+* Participate in interviews for new team candidates.
+
+Throughout my long contract with Pear I also had the opportunity to work on other components outside
+of the Platform team. This incldues:
+* Design and implementation of web clinical dashboards using React, HTML, and CSS (and previously
+  AngularJS).
+* Design and implementation of mobile patient apps using React Native and Javascript.
+* Design and implementation of a native iOS SDK using Obj-C and Cocoa Framework.
+
+---
+## From 2013-1 To 2014-9: Senior Software Engineer / Orbital Technologies / Vancouver
+
+Working to provide software development services to major IT departments. Since joining, I've been working on
+projects for Microsoft's IT unit to develop and maintain their volume licensing services. My duties include:
+* Participating in design sessions for new projects or features.
+* Writing new code using C#, .NET Framework 4, Entity Framework, T-SQL, Javascript, jQuery, and HTML.
+* Writing automated tests.
+* Reviewing code written by other developers.
+* Writing design and tech spec documents.
+* Analyzing performance bottlenecks.
+* Refactoring older code to improve its design and readability.
+In addition to my work on Microsoft's project, my work at Orbital Technologies also involves interviewing other
+candidates to assess their programming and design skills.
+
+---
+## From 2010-5 To 2012-12: Senior Software Engineer / Nokia / Vancouver
+
+Worked in an agile environment on few projects with the following responsibilities:
+* Analyze new business requirements and provide architecture and implementation plans.
+* Implement new features by writing code, DB change-sets, and SQL queries.
+* Enhance existing features by fixing known issues, performance bottlenecks, and security holes.
+* Refactor existing code to improve design and quality.
+* Write shell scripts for various maintenance jobs.
+* Provide code reviews to other developers.
+* Provide technical support for deployment engineers and help setting up the CI system and investigating
+deployment problems.
+
+Projects and technologies I worked on:
+* **September 2011 to December 2012**: Enhance and maintain the publisher intake system for the Nokia
+Store (previously Ovi Store). Nokia Store is a high traffic app store for Nokia smart phones and feature
+phones, supporting hundreds of millions of customers and over 10 million downloads per day. The intake
+part of the system is built using Ruby on Rails, PostgreSQL, Cent OS, HTML, CSS, Javascript, and
+Prototype. My responsibilities on this project also included writing data migration scripts to transfer
+publisher data to a new DB format.
+* **March 2011 to August 2011**: Implement a web based application wizard to rapidly develop customized
+RSS based smart phone apps. This project was developed using PHP, Zend Framework, CentOS,
+Javascript, jQuery, Ajax, HTML, and CSS.
+* **May 2010 to February 2011**: Worked on Nokia Store client UI for the award winning Nokia N9 phone
+using C++, QML, and Javascript.
+
+Other achievements I made during my work in Nokia include: Winning a Nokia internal award for innovation.
+
+---
+## From 2009-12 To 2010-3: Web Developer (short contract) / HN Consultants / Vancouver
+
+Developed a new medical application to manage patient information and reports. Developed in C#, .NET 3.5, ASP
+MVC, SQL Server 2008, HTML, CSS, JS, jQuery, Ajax. Features: user roles security model, rich client, PDF
+export, automated notification emails, client & server side validation. I was the lead of three developers working
+on this project and my responsibility was to design the code and the data model, implementation, in addition to
+choosing the technologies to use and setting up a development environment for the team.
+
+---
+## From 2009-9 To 2009-12: Senior Software Engineer (contract) / Cosmos Interactive Inc / Vancouver
+
+Developed a 2D graphics engine for the iPhone and XNA platforms and useed it to build the award-winning
+Babylonian Twins game. The engine was developed for the iPhone using C++, Obj C++, OpenGL, OpenAL,
+XML, Cocoa Framework, Mac OS X; and for WindowsPhone/XBox using XNA, Visual Studio, and Windows. I
+was the architect and one of two main programmers. The team also had two other additional programmers.
+
+---
+## From 2006-9 To 2009-4: Senior Web Developer / SpeedyPin.com / Vancouver
+
+Worked in an agile environment to enhance and maintain the phone card retailer's high traffic websites. My work
+involved dealing with issues like website security, high traffic, and SEO among others. Responsibilities:
+* Analyze business requirements and suggest appropriate solutions and object oriented code design.
+* Implement code in PHP5, MySQL, XML, HTML, CSS, JS, and Ajax.
+* Design and implement plug-ins for the Content Management System using Perl.
+* Improve performance and security of existing code.
+* Unit testing using PhpUnit.
+* Write stand-alone and inline documentation.
+
+---
+## From 2004-12 To 2006-6: IT Consultant / Array Systems / Los Angeles
+
+Worked on developing and maintaining enterprise applications for clients of this consultancies company using
+.NET, SQL Server, as well as LAMP. I worked for IT departments of notable clients like American Honda Motors.
+Responsibilities:
+* Application and data model design.
+* Implementation using C#, .NET, SQL Server, PHP, MySQL, HTML, and JavaScript.
+* Unit testing.
+* Write technical and specification documents.
+
+---
+## From 2003-9 To 2004-8: Programmer / 2Digital Productions / Dubai
+
+Developed multimedia applications mainly for TV stations and ad agencies. I was the head of a small
+programming team (2 programmers). Responsibilities included:
+* Design object-oriented code for 3D games, tools, plug-ins, and interactive TV applications.
+* Implement the code design using C++, STL, MFC, and DirectX.
+* Research new programming technologies to be adopted and develop new algorithms when needed.
+* Make deployment packages using InstallShield.
+* Provide technical support to other team members.
+
+---
+## From 2000-8 To 2003-8: Programmer / Cosmos Software / Dubai
+
+Worked on multimedia programming as well as web development projects. Responsibilities:
+* Develop multimedia applications and in-house tools using MS VC++, MFC, STL, and DirectX.
+* Build deployment packages using InstallShield.
+* Write required classes for an online billing system using Java (J Builder) and ATG.
+* Develop web applications using ASP, PHP, HTML, JavaScript, Flash ActionScript, and SQL Server.
+
+---
+## From 1999-10 To 2000-4: Software Engineer / General Systems Company / Baghdad
+
+Worked on a SCADA system to develop a network redundancy module which utilizes several Ethernet
+networks to provide additional network availability and bandwidth. Responsibilities:
+* Define the requirements and design the communication protocol.
+* Design the module’s classes and functions.
+* Develop the module using C++, Win32, Sockets, and RPC.
+* Unit testing.
