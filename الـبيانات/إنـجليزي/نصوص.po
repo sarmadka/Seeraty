@@ -39,3 +39,21 @@ msgstr "This is the list of projects I've worked on independently; it does not i
 
 msgid "< الخط الزمني"
 msgstr "< Timeline"
+
+msgid "يُرجى إدخال جميع الحقول"
+msgstr "All fields are required"
+
+msgid "عنوان البريد الإلكتروني غير صالح"
+msgstr "E-Mail is invalid"
+
+msgid "يجب التحقق من أنك لست روبوتًا"
+msgstr "Captcha validation failed"
+
+msgid "أُرسلت الرسالة بنجاح"
+msgstr "Message sent successfully"
+
+msgid "حدث خطأ غير متوقع"
+msgstr "Unexpected server error"
+
+msgid "قيد الإرسال"
+msgstr "Sending..."
