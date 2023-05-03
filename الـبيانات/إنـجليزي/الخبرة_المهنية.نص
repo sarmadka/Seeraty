@@ -15,6 +15,7 @@ smaller teams (3 to 4 devs) within this platform team. Main achievements:
   with Docusign for implementing surveys that optionally include signing agreements.
 * Led the development of a data migration system to migrate from monolithic to micro services architecture.
 * Built the initial version of the framework used by mobile apps to integrate with Pear's systems.
+
 Used techs: NodeJS, TypeScript, NestJS, Express, Restify, Sequelize, PostgreSQL, Apache Nifi,
 React & React Native, Jest, Sinon, Mocha & Chai, Joi, Docker.
 
