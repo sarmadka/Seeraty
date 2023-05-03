@@ -1,24 +1,20 @@
 ## Summary
 
 * Inventor and project lead of Alusus Programming Language.
-* Over 20 years of professional experience in software engineering.
+* Over 22 years of professional experience in software engineering.
 * B.Sc. in computer engineering.
-* Strong skills in software design, programming, math, and problem solving.
-* Strives for quality code with proper design while avoiding over-engineering.
-* Experience with the entire SDLC. Good project planning and time management skills.
-* Excellent writing and communication skills.
-* Attention to details.
+* Many open source projects demonstrating skills in software design, programming,
+  problem solving, as well as documentation and software projects' leadership tasks.
 
 ---
 ## Recent Technical Skills
 
-* Javascript, NodeJS, TypeScript, React, React Native, jQuery, Restify, Express, Sequelize, Mocha, Chai, Sinon, Jest,
-  npm, yarn.
 * C/C++(17), STL, Make files, CMake.
+* Javascript, NodeJS, TypeScript, React, React Native, Restify, Express, Sequelize, Mocha, Chai, Sinon, Jest.
 * MySQL, PostgreSQL, SQLite, Apache NiFi.
-* XML, HTML, CSS, WebAssembly, JSON, YML, web services, Ajax, REST.
-* Rich clients, web services, micro services architecture.
-* Linux, Apache, Docker, Continuous Integration (CircleCI, Bitrise, Jenkins), GIT.
+* HTML, CSS, jQuery, WebAssembly, rich clients.
+* Web services, REST, micro services architecture.
+* Linux, Apache, Docker, LXD, Continuous Integration (CircleCI, Bitrise, Jenkins).
 * OOD/OOP, ORM, MVC, parallel programming (multithreading, tasks, promises), data security (HIPAA, PHI/PII).
 * Test driven development, agile methodologies.
 
