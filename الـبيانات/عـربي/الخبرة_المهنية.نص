@@ -18,7 +18,7 @@
   إلى هيكل خدمات متعددة (micro services architecture).
 * تطوير النسخة الأولية من الإطار (framework) المستخدم في تطبيقات الموبايل للتكامل مع أنظمة الشركة.
 
-االتقنيات المستخدمة: NodeJS, TypeScript, NestJS, Express, Restify, Sequelize, PostgreSQL, Apache Nifi,
+االتقنيات المستخدمة: NodeJS, TypeScript, NestJS, Express, Restify, Sequelize, PostgreSQL, MySQL, Redis, Apache Nifi,
 ‏React & React Native, Jest, Sinon, Mocha & Chai, Joi, Docker.
 
 ---
