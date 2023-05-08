@@ -9,8 +9,8 @@ libraries or from inside the end user's program itself. Goals of the language:
 ![](/الموارد/شعار_الأسس_بخلفية.svg)
 
 Currently, Alusus libs exist for desktop apps, command line tools, web apps, database access,
-in addition to game programming. Alusus builds currently exist for x86 32 & 64 bit Linux, ARM 32 & 64 bit
-Linux, and x86 64 bit macOS.
+in addition to game programming. Alusus compiler was built using C++ and LLVM, and builds for it
+currently exist for x86 32 & 64 bit Linux, ARM 32 & 64 bit Linux, and x86 64 bit macOS.
 
 My role: Inventor and lead engineer.
 

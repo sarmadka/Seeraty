@@ -9,14 +9,12 @@
 ---
 ## Recent Technical Skills
 
-* C/C++(17), STL, Make files, CMake.
+* C/C++(17), STL, Make files, CMake, vcpkg.
 * Javascript, NodeJS, TypeScript, React, React Native, Restify, Express, Sequelize, Mocha, Chai, Sinon, Jest.
 * MySQL, PostgreSQL, SQLite, Apache NiFi.
-* HTML, CSS, jQuery, WebAssembly, rich clients.
-* Web services, REST, micro services architecture.
-* Linux, Apache, Docker, LXD, Continuous Integration (CircleCI, Bitrise, Jenkins).
-* OOD/OOP, ORM, MVC, parallel programming (multithreading, tasks, promises), data security (HIPAA, PHI/PII).
-* Test driven development, agile methodologies.
+* Compiler development, LLVM, WebAssembly.
+* Linux, Apache, Docker, LXD, Continuous Integration (GitHub Actions, CircleCI, Bitrise, Jenkins).
+* OOD/OOP, ORM, MVC, micro services architecture, parallel programming (multithreading, tasks, promises), data security (HIPAA, PHI/PII).
 
 ---
 ## Other Technical Skills
