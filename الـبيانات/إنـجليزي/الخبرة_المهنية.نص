@@ -17,7 +17,7 @@ smaller teams (3 to 4 devs) within this platform team. Main achievements:
 * Built the initial version of the framework used by mobile apps to integrate with Pear's systems.
 
 Used techs: NodeJS, TypeScript, NestJS, Express, Restify, Sequelize, PostgreSQL, MySQL, Redis, Apache Nifi,
-React & React Native, Jest, Sinon, Mocha & Chai, Joi, Docker.
+RabbitMQ, React & React Native, Jest, Sinon, Mocha & Chai, Joi, Docker.
 
 ---
 ## From 2013-1 To 2014-9: Senior Software Engineer / Orbital Technologies / Vancouver
