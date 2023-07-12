@@ -10,7 +10,8 @@
 ## Recent Technical Skills
 
 * C/C++(17), STL, Make files, CMake, vcpkg.
-* Javascript, NodeJS, TypeScript, React, React Native, NestJS, Restify, Express, Sequelize, Mocha, Chai, Sinon, Jest.
+* Javascript, TypeScript, Python, NodeJS.
+* React, React Native, NestJS, Restify, Express, Sequelize, Mocha, Chai, Sinon, Jest.
 * PostgreSQL, MySQL, SQLite, Redis, Apache NiFi, RabbitMQ.
 * Compiler development, LLVM, WebAssembly.
 * Linux, Apache, Docker, LXD, Continuous Integration (GitHub Actions, CircleCI, Bitrise, Jenkins).
