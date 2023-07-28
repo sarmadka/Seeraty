@@ -1,3 +1,26 @@
+## From 2023-5 To Present: Founder and Lead Engineer / Alusus Software Ltd. / Vancouver
+
+Leading a team of 4 to develop Alusus programming language and related tools and libraries, in addition
+to developing full stack apps using the language. Responsibilities include:
+
+* Design the code for the compiler and the standard libraries.
+* Develop the compiler and the standard libraries and fix issues.
+* Design and develop external libraries to enable full stack web development and, dealing with databases,
+  and other libraries necessary for web development like parallel processing, identity management,
+  captcha, payment gateways, etc.
+* Develop tools to enable and simplify the hosting of Alusus based applications.
+* Write automated tests, perform manual testing, and investigate issues.
+* Review code written by other developers.
+* Write and review documentation.
+* Mentor other develoeprs and set guidelines.
+* Write and assign tasks, and estimate development and delivery timelines.
+* Manage releases of the compiler and libraries.
+* Develop full stack web apps using Alusus language.
+
+Used techs: Alusus, C++, JavaScript, HTML, CSS, WebAssembly, PWA, PostgreSQL, MySQL, Redis,
+Apache, LXD, Docker, Digital Ocean, Linux.
+
+---
 ## From 2015-1 To 2023-4: Lead Software Engineer / Pear Therapteutics / San Francisco (remote)
 
 Worked as a full stack developer on building a platform for digital therapy. The system consists of patient-facing
