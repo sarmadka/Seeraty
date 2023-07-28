@@ -25,6 +25,9 @@ msgstr "E-Mail Address"
 msgid "العنوان"
 msgstr "Title"
 
+msgid "الآن"
+msgstr "Present"
+
 msgid "برمجتُ هذا الموقع باستخدام [مـنصة_ويب](https://github.com/Alusus/WebPlatform)\\n\n"
 "والتي برمجتها باستخدام [لغة الأسس](https://alusus.org)\\n\n"
 "والتي هي الأخرى من إنتاجاتي البرمجية"
